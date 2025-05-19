@@ -32,4 +32,4 @@ A plot is generated showing the position of the fingertip (end effector) in the 
 
 ▶️ Getting Started
 Run the Code
-python kinematic_analysis.py
+python joe.ipynb
